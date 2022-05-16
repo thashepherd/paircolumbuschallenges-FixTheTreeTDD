@@ -7,7 +7,7 @@ The `tree.rb` script is incomplete. The script should model an apple tree that g
 ## Instructions
 - Run your tests: `bundle exec rspec`
 - Fix the issues that surface  
-- Before you begin working on a method, think about what it should return and __write it's test first__ 
+- Before you begin working on a method, think about what it should return and __write its test first__ 
 
 __NOTE:__ Uncomment the `tree_data` method at the end of your file and if your script has been crafted correctly, it should print some information about your tree and its fruit.
 
